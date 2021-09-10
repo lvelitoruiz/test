@@ -1,0 +1,16 @@
+.active {
+  .circle-item {
+    transform: scale(1,1);
+  }
+}
+
+.former {
+  .circle-item {
+    transform: scale(1,1);
+    opacity: 0.3;
+  }
+}
+
+.circle-item {
+  transform: scale(0,0);
+}
